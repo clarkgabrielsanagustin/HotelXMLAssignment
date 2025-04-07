@@ -4,7 +4,7 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address nearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -16,7 +16,7 @@
   <Hotel Rating="4.5">
     <Name>Marriott</Name>
     <Phone>480-123-4567</Phone>
-    <Address nearestAirport="Phoenix Airport">
+    <Address NearstAirport="Phoenix Airport">
       <Number>50</Number>
       <Street>Mill Ave</Street>
       <City>Phoenix</City>
@@ -41,7 +41,7 @@
     <Name>Hilton Garden Inn</Name>
     <Phone>602-555-7890</Phone>
     <Phone>877-555-1212</Phone>
-    <Address nearestAirport="Mesa Gateway">
+    <Address NearstAirport="Mesa Gateway">
       <Number>210</Number>
       <Street>Broadway Rd</Street>
       <City>Mesa</City>
@@ -53,7 +53,7 @@
   <Hotel Rating="4.7">
     <Name>Cambria Hotel</Name>
     <Phone>623-111-9876</Phone>
-    <Address nearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>12</Number>
       <Street>University Dr</Street>
       <City>Tempe</City>
@@ -77,7 +77,7 @@
   <Hotel>
     <Name>Residence Inn</Name>
     <Phone>480-999-1234</Phone>
-    <Address nearestAirport="Scottsdale Airport">
+    <Address NearstAirport="Scottsdale Airport">
       <Number>143</Number>
       <Street>Scottsdale Rd</Street>
       <City>Scottsdale</City>
@@ -102,7 +102,7 @@
   <Hotel>
     <Name>Courtyard by Marriott</Name>
     <Phone>928-777-6543</Phone>
-    <Address nearestAirport="Flagstaff Pulliam">
+    <Address NearstAirport="Flagstaff Pulliam">
       <Number>125</Number>
       <Street>Beaver St</Street>
       <City>Flagstaff</City>
