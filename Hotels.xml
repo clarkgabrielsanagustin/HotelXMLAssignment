@@ -25,10 +25,10 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel NearstAirport="Sky Harbor">
     <Name>Hyatt Place</Name>
     <Phone>602-222-3333</Phone>
-    <Address>
+    <Address NearstAirport="Sky Harbor">
       <Number>24</Number>
       <Street>Main St</Street>
       <City>Scottsdale</City>
@@ -65,7 +65,7 @@
   <Hotel Rating="3.5">
     <Name>Holiday Inn Express</Name>
     <Phone>520-654-9870</Phone>
-    <Address>
+    <Address NearstAirport="Tucson International">
       <Number>76</Number>
       <Street>Speedway Blvd</Street>
       <City>Tucson</City>
@@ -90,7 +90,7 @@
     <Name>DoubleTree</Name>
     <Phone>480-303-4567</Phone>
     <Phone>800-445-8667</Phone>
-    <Address>
+    <Address NearstAirport="Tempe Airfield">
       <Number>100</Number>
       <Street>Apache Blvd</Street>
       <City>Tempe</City>
@@ -115,7 +115,7 @@
     <Name>Embassy Suites</Name>
     <Phone>602-789-4321</Phone>
     <Phone>877-789-4321</Phone>
-    <Address>
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>85</Number>
       <Street>Thomas Rd</Street>
       <City>Phoenix</City>
@@ -124,4 +124,3 @@
     </Address>
   </Hotel>
 </Hotels>
-
