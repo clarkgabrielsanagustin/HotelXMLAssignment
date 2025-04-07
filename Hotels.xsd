@@ -11,14 +11,12 @@
               <xs:element name="Phone" type="xs:string" maxOccurs="unbounded"/>
               <xs:element name="Address">
                 <xs:complexType>
-                  <xs:sequence>
-                    <xs:element name="Number" type="xs:string"/>
-                    <xs:element name="Street" type="xs:string"/>
-                    <xs:element name="City" type="xs:string"/>
-                    <xs:element name="State" type="xs:string"/>
-                    <xs:element name="Zip" type="xs:string"/>
-                  </xs:sequence>
-                  <xs:attribute name="NearestAirport" type="xs:string" use="optional"/>
+                  <xs:attribute name="number" type="xs:string" use="required"/>
+                  <xs:attribute name="street" type="xs:string" use="required"/>
+                  <xs:attribute name="city" type="xs:string" use="required"/>
+                  <xs:attribute name="state" type="xs:string" use="required"/>
+                  <xs:attribute name="zip" type="xs:string" use="required"/>
+                  <xs:attribute name="nearestAirport" type="xs:string" use="optional"/>
                 </xs:complexType>
               </xs:element>
             </xs:sequence>
@@ -30,3 +28,4 @@
   </xs:element>
 
 </xs:schema>
+
