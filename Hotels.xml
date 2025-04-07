@@ -4,123 +4,63 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Harbor">
-      <Number>11</Number>
-      <Street>E 7th St</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-    </Address>
+    <Address number="11" street="E 7th St" city="Tempe" state="AZ" zip="85281" nearestAirport="Sky Harbor" />
   </Hotel>
 
   <Hotel Rating="4.5">
     <Name>Marriott</Name>
     <Phone>480-123-4567</Phone>
-    <Address NearestAirport="Phoenix Airport">
-      <Number>50</Number>
-      <Street>Mill Ave</Street>
-      <City>Phoenix</City>
-      <State>AZ</State>
-      <Zip>85001</Zip>
-    </Address>
+    <Address number="50" street="Mill Ave" city="Phoenix" state="AZ" zip="85001" nearestAirport="Phoenix Airport" />
   </Hotel>
 
   <Hotel>
     <Name>Hyatt Place</Name>
     <Phone>602-222-3333</Phone>
-    <Address>
-      <Number>24</Number>
-      <Street>Main St</Street>
-      <City>Scottsdale</City>
-      <State>AZ</State>
-      <Zip>85250</Zip>
-    </Address>
+    <Address number="24" street="Main St" city="Scottsdale" state="AZ" zip="85250" />
   </Hotel>
 
   <Hotel Rating="3.9">
     <Name>Hilton Garden Inn</Name>
     <Phone>602-555-7890</Phone>
     <Phone>877-555-1212</Phone>
-    <Address NearestAirport="Mesa Gateway">
-      <Number>210</Number>
-      <Street>Broadway Rd</Street>
-      <City>Mesa</City>
-      <State>AZ</State>
-      <Zip>85204</Zip>
-    </Address>
+    <Address number="210" street="Broadway Rd" city="Mesa" state="AZ" zip="85204" nearestAirport="Mesa Gateway" />
   </Hotel>
 
   <Hotel Rating="4.7">
     <Name>Cambria Hotel</Name>
     <Phone>623-111-9876</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
-      <Number>12</Number>
-      <Street>University Dr</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85282</Zip>
-    </Address>
+    <Address number="12" street="University Dr" city="Tempe" state="AZ" zip="85282" nearestAirport="Phoenix Sky Harbor" />
   </Hotel>
 
   <Hotel Rating="3.5">
     <Name>Holiday Inn Express</Name>
     <Phone>520-654-9870</Phone>
-    <Address>
-      <Number>76</Number>
-      <Street>Speedway Blvd</Street>
-      <City>Tucson</City>
-      <State>AZ</State>
-      <Zip>85719</Zip>
-    </Address>
+    <Address number="76" street="Speedway Blvd" city="Tucson" state="AZ" zip="85719" />
   </Hotel>
 
   <Hotel>
     <Name>Residence Inn</Name>
     <Phone>480-999-1234</Phone>
-    <Address NearestAirport="Scottsdale Airport">
-      <Number>143</Number>
-      <Street>Scottsdale Rd</Street>
-      <City>Scottsdale</City>
-      <State>AZ</State>
-      <Zip>85257</Zip>
-    </Address>
+    <Address number="143" street="Scottsdale Rd" city="Scottsdale" state="AZ" zip="85257" nearestAirport="Scottsdale Airport" />
   </Hotel>
 
   <Hotel Rating="4.0">
     <Name>DoubleTree</Name>
     <Phone>480-303-4567</Phone>
     <Phone>800-445-8667</Phone>
-    <Address>
-      <Number>100</Number>
-      <Street>Apache Blvd</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-    </Address>
+    <Address number="100" street="Apache Blvd" city="Tempe" state="AZ" zip="85281" />
   </Hotel>
 
   <Hotel>
     <Name>Courtyard by Marriott</Name>
     <Phone>928-777-6543</Phone>
-    <Address NearestAirport="Flagstaff Pulliam">
-      <Number>125</Number>
-      <Street>Beaver St</Street>
-      <City>Flagstaff</City>
-      <State>AZ</State>
-      <Zip>86001</Zip>
-    </Address>
+    <Address number="125" street="Beaver St" city="Flagstaff" state="AZ" zip="86001" nearestAirport="Flagstaff Pulliam" />
   </Hotel>
 
   <Hotel Rating="4.6">
     <Name>Embassy Suites</Name>
     <Phone>602-789-4321</Phone>
     <Phone>877-789-4321</Phone>
-    <Address>
-      <Number>85</Number>
-      <Street>Thomas Rd</Street>
-      <City>Phoenix</City>
-      <State>AZ</State>
-      <Zip>85014</Zip>
-    </Address>
+    <Address number="85" street="Thomas Rd" city="Phoenix" state="AZ" zip="85014" />
   </Hotel>
 </Hotels>
